@@ -1,0 +1,22 @@
+body{
+	background: url("Digital Clock Image.jpeg");
+}
+
+.container{
+	margin: 0;
+	padding:10;
+	color:yellow;
+	text-align: center;
+	font-size:150px;
+}
+
+button{
+	background-color:#51e3d4;
+	width:400px;
+	height:120px;
+	margin-left: 530px;
+	margin-top: 250px;
+	color:#fd0054;
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+}
